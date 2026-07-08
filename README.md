@@ -1,5 +1,7 @@
 # Loop Engineering
 
+[中文说明](README.zh-CN.md)
+
 
 <p align="center">
   <a href="https://cobusgreyling.github.io/loop-engineering/">
